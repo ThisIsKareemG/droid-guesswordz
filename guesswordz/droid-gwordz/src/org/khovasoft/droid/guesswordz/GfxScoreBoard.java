@@ -1,13 +1,10 @@
 package org.khovasoft.droid.guesswordz;
 
-import org.anddev.andengine.entity.scene.Scene;
-import org.anddev.andengine.entity.text.Text;
-import org.anddev.andengine.opengl.font.Font;
-import org.anddev.andengine.opengl.texture.Texture;
-import org.anddev.andengine.opengl.texture.atlas.bitmap.BitmapTextureAtlas;
-import org.anddev.andengine.opengl.texture.region.TextureRegion;
-import org.anddev.andengine.opengl.texture.region.TiledTextureRegion;
-import org.anddev.andengine.util.HorizontalAlign;
+import org.andengine.entity.scene.Scene;
+import org.andengine.entity.text.Text;
+import org.andengine.opengl.font.Font;
+import org.andengine.opengl.texture.atlas.bitmap.BitmapTextureAtlas;
+import org.andengine.util.HorizontalAlign;
 
 import android.util.Log;
 

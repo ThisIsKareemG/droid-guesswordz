@@ -9,8 +9,8 @@ package org.khovasoft.droid.guesswordz;
  * (c) 2011-2012 Kareem J. Glover dba KHOVASoft
  */
 
-import org.anddev.andengine.entity.sprite.Sprite;
-import org.anddev.andengine.opengl.texture.region.TextureRegion;
+import org.andengine.entity.sprite.Sprite;
+import org.andengine.opengl.texture.region.TextureRegion;
 
 
 /*
